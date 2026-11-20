@@ -18,7 +18,7 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=2500&color=A855F7&center=true&vCenter=true&width=640&height=30&lines=Acredito+que+%C3%A0s+vezes+s%C3%A3o+as+pessoas+que;ningu%C3%A9m+espera+nada+que+fazem+as+coisas+que;ningu%C3%A9m+consegue+imaginar.;-+Alan+Turing" alt="Acredito que às vezes são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar. - Alan Turing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=2500&color=A855F7&center=true&vCenter=true&width=640&height=30&lines=Aprendendo+todos+os+dias+para+entregar+resultados+cada+vez+melhores." alt="Aprendendo todos os dias para entregar resultados cada vez melhores.">
 
   <br><br>
 
