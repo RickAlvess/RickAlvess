@@ -18,7 +18,7 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=2500&color=A855F7&center=true&vCenter=true&width=640&height=30&lines=Aprendendo+todos+os+dias+para+entregar+resultados+cada+vez+melhores." alt="Aprendendo todos os dias para entregar resultados cada vez melhores.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=2500&color=A855F7&center=true&vCenter=true&width=500&height=30&lines=Profissional+em+constante+evolu%C3%A7%C3%A3o." alt="Profissional em constante evolução.">
 
   <br><br>
 
