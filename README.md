@@ -22,7 +22,7 @@
 
   <br><br>
 
-  **Tecnologias e ferramentas**
+  **Tecnologias e Ferramentas**
 
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Java, Python, MySQL, Git, GitHub e VS Code">
 
